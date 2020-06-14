@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Filpkart" verbose="2">
+<test name = "Filpkart_login">
+<classes>
+<class name="testCase.Electronics_Item"></class>
+</classes>
+</test>
+</suite>
+
+ <!-- <test name ="Electronics_list_test">
+<classes>
+<class name ="testCase.Electronics_Item"></class>
+</classes>
+</test>
+</suite>
+<test  name = " Tv's_list_test">
+<classes>
+<class name = "testCase.Tv_Item"></class>
+</classes>
+</test>
+<test name = "men_UsingItems_test"> 
+<classes>
+<class name="testCase.Men_Items"></class>
+</classes>
+</test>
+<test name = "womens_UsingItems_test">
+<classes>
+<class name = "testCase.Women_Item"></class>
+</classes>
+</test>
+<test name ="kids_UsingItems_test">
+<classes>
+<class name =" testCase.Kids_Item"></class>
+</classes>
+</test>
+<test name="Home_FurnitureItem_test">
+<classes>
+<class name=" testCase.HomeFurniture_Item"> </class>
+</classes>
+</test>
+<test name="sportsItem_test">
+<classes>
+<class name = "testCase.Sports_Item"></class>
+</classes>
+</test>
+ -->

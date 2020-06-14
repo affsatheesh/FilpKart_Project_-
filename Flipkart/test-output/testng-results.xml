@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Filpkart" duration-ms="23875" started-at="2020-05-14T17:21:38Z" finished-at="2020-05-14T17:22:02Z">
+    <groups>
+    </groups>
+    <test name="Filpkart_login" duration-ms="23875" started-at="2020-05-14T17:21:38Z" finished-at="2020-05-14T17:22:02Z">
+      <class name="testCase.Electronics_Item">
+        <test-method status="PASS" signature="Browserlauncher()[pri:0, instance:testCase.Electronics_Item@7873d3]" name="Browserlauncher" is-config="true" duration-ms="16333" started-at="2020-05-14T17:21:22Z" finished-at="2020-05-14T17:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlauncher -->
+        <test-method status="PASS" signature="verify()[pri:0, instance:testCase.Electronics_Item@7873d3]" name="verify" duration-ms="23778" started-at="2020-05-14T17:21:38Z" finished-at="2020-05-14T17:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method status="PASS" signature="Browserclose()[pri:0, instance:testCase.Electronics_Item@7873d3]" name="Browserclose" is-config="true" duration-ms="0" started-at="2020-05-14T17:22:02Z" finished-at="2020-05-14T17:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserclose -->
+      </class> <!-- testCase.Electronics_Item -->
+    </test> <!-- Filpkart_login -->
+  </suite> <!-- Filpkart -->
+</testng-results>
